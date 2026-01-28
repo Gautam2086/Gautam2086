@@ -28,6 +28,15 @@
 
 ---
 
+### 🚀 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| [**CodeCoach-AI**](https://github.com/Gautam2086/codecoach-ai) | Voice interview prep agent with RAG - LiveKit, Deepgram, OpenAI & React |
+| [**SignalTrace**](https://github.com/Gautam2086/SignalTrace) | AI-powered log triage & incident analysis tool - FastAPI, React, LLM |
+
+---
+
 ### 📊 LeetCode
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-1260%2B%20Solved-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/Gautam2086/)
