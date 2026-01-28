@@ -51,5 +51,5 @@
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gautam2086&show_icons=true&theme=dark&hide_border=true)
+![Profile Views](https://komarev.com/ghpvc/?username=Gautam2086&color=0A66C2&style=flat)
 
