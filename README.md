@@ -3,7 +3,7 @@
 ### A little about me:
 
 - 🔭 Currently working as a **Software Engineer** at **MaterialsIN (SUNY Research Foundation)**
-- 🏢 Previously Software Engineer at **Blox.xyz** | Intern at **ChargePoint**
+- 🏢 Previously Software Engineer at **Blox.xyz** | **ChargePoint (California)**
 - 🎓 MS in Computer Science - **University at Buffalo, SUNY** (Dec 2025)
 - 🧠 I build **multi-agent AI systems**, real-time data pipelines, and full-stack applications
 
@@ -23,7 +23,7 @@
 **Languages:** Python, C++, JavaScript, SQL, PHP  
 **Frameworks:** React, Node.js, Express.js, FastAPI, LangChain, Laravel  
 **Cloud & ML:** AWS (Lambda, Kinesis, SageMaker, S3), OpenAI, Vercel  
-**Databases:** PostgreSQL, MySQL, Neo4j  
+**Databases:** PostgreSQL, MySQL
 **Tools:** Docker, Git, CI/CD, Terraform
 
 ---
@@ -42,5 +42,5 @@
 
 ---
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gautam2086&theme=dark&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Gautam2086&theme=dark&hide_border=true)
 
