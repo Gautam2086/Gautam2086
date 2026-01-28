@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Gautam2086&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Gautam2086&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
 
 <!--
 **Gautam2086/Gautam2086** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
