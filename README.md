@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Gautam2086)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Gautam2086&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 
 
