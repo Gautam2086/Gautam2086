@@ -11,12 +11,9 @@
 
 ---
 
-### What I'm working on:
+### Right now:
 
-- Multi-agent systems with **LangGraph** & **LangChain**
-- Real-time ML pipelines with **AWS Kinesis**, **Lambda**, & **SageMaker**
-- Voice AI applications with **LiveKit**, **Deepgram**, & **ElevenLabs**
-- RAG-based applications & hallucination detection
+Exploring agentic workflows and tool-use patterns with LLMs.
 
 ---
 
@@ -35,22 +32,22 @@
 
 | Project | What it does | Tech |
 |---------|-------------|------|
-| [**CodeCoach-AI**](https://github.com/Gautam2086/codecoach-ai) | Voice-based coding interview coach with custom RAG pipeline -speak naturally, get instant explanations & practice problems | LiveKit, Deepgram, OpenAI, ElevenLabs, FAISS, React |
-| [**SignalTrace**](https://github.com/Gautam2086/SignalTrace) | AI-powered log triage tool -auto-clusters errors, ranks by priority, generates LLM explanations with hallucination guardrails | FastAPI, Pydantic, OpenAI, React, Tailwind CSS |
-| [**Bio Research Agent**](https://github.com/Gautam2086/bio-research-agent) | Scientific literature agent that synthesizes papers and validates every citation -hallucinations auto-caught via Pydantic | Python, Claude API, Semantic Scholar API |
-| **Real-Time Anomaly Detection** | Event-driven pipeline for manufacturing quality control -streaming sensor data, real-time ML inference, 40% cost reduction *(proprietary -built at SUNY RF)* | AWS (Kinesis, Lambda, SageMaker), React, Terraform, Docker |
+| [**CodeCoach-AI**](https://github.com/Gautam2086/codecoach-ai) | Voice-based coding interview coach with custom RAG pipeline - speak naturally, get instant explanations & practice problems | LiveKit, Deepgram, OpenAI, ElevenLabs, FAISS, React |
+| [**SignalTrace**](https://github.com/Gautam2086/SignalTrace) | AI-powered log triage tool - auto-clusters errors, ranks by priority, generates LLM explanations with hallucination guardrails | FastAPI, Pydantic, OpenAI, React, Tailwind CSS |
+| [**Bio Research Agent**](https://github.com/Gautam2086/bio-research-agent) | Scientific literature agent that synthesizes papers and validates every citation - hallucinations auto-caught via Pydantic | Python, Claude API, Semantic Scholar API |
+| **Real-Time Anomaly Detection** | Event-driven pipeline for manufacturing quality control - streaming sensor data, real-time ML inference, 40% cost reduction *(proprietary - built at SUNY RF)* | AWS (Kinesis, Lambda, SageMaker), React, Terraform, Docker |
+
+---
+
+### LeetCode
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-1,260%2B%20Solved-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/Gautam2086/)
 
 ---
 
 ### Activity
 
 [![Gautam's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Gautam2086&theme=github-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-### LeetCode
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-1260%2B%20Solved-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/Gautam2086/)
 
 ---
 
